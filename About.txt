@@ -1,0 +1,3 @@
+Durga Manasa Palaparthi 
+Bachelor of computer science 
+This platform allows developers to create, store, manage, and share their code
